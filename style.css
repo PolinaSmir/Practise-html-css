@@ -2,9 +2,8 @@ h1,
 h2 {
   color: darkgreen;
   font-size: 90px;
-}
-#headline {
-  font-size: 50px;
+  text-transform: uppercase;
+  line-height: 1em;
 }
 .aqua-color {
   color: rgb(111, 28, 49);
@@ -14,4 +13,13 @@ h2 {
 }
 #red-back {
   background-color: rgba(165, 42, 42, 0.494);
+}
+a {
+  color: pink;
+  font-weight: bold;
+  text-decoration: none;
+}
+div,
+p {
+  text-align: justify;
 }
